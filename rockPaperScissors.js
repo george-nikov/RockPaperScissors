@@ -42,7 +42,7 @@ function rockPaperScissors(playerTurn) {
         console.log("You lose!");
     }
     else {
-        console.log("This game was a draw!");
+        console.log('\x1b[33m This game was a Draw!\x1b[0m');
     }
 
 }
