@@ -22,6 +22,7 @@ The computer chooses a **random option**, then reveals the winner.
 ### Solution
 ![image](https://user-images.githubusercontent.com/109210142/214064926-f82d0354-20e6-4a6a-9d20-aa80d4d5d411.png)
 
-Sourse Code Here -->[Source Code](rockPaperScissors.js)
+**Source Code Here -->[Source Code](rockPaperScissors.js)**
 
+### Screenshots
 ![image](https://user-images.githubusercontent.com/109210142/214063636-b73beec2-7e8e-4586-942c-94e45ede1f2b.png)
